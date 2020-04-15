@@ -1,0 +1,3 @@
+noise supression net, 2015
+https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/
+https://dl.acm.org/citation.cfm?id=2736113
