@@ -1,3 +1,14 @@
 noise supression net, 2015
 https://devblogs.nvidia.com/nvidia-real-time-noise-suppression-deep-learning/
 https://dl.acm.org/citation.cfm?id=2736113
+
+
+
+####Sagemaker setup####
+## Notebook instance=ml.t2.medium
+## train_instance_type='ml.p2.xlarge' ###!!!! 1.26$ / hour ###
+## model_deploy_instance='ml.m4.xlarge' ###!!!! 0.28$ / hour ###
+
+
+Pricing Link (East: Ohio)
+https://aws.amazon.com/sagemaker/pricing/
